@@ -1,6 +1,6 @@
 # About The Program
 
-Restaurant Rating is a program designed to provide a simple GUI for users to rate restaurants. The program is written in Python 3.7.3 and uses the Tkinter library for the GUI. The program is designed to be cross-platform and should work on Windows, Mac, and Linux.
+Restaurant Rating is a program designed to provide a simple GUI for users to rate restaurants. The program is written in Python 3.10.7 and uses the Tkinter library for the GUI. The program is designed to be cross-platform and should work on Windows, Mac, and Linux.
 
 ## Installation
 
